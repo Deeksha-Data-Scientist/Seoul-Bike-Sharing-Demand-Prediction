@@ -1,6 +1,6 @@
 # Seoul-Bike-Sharing-Demand-Prediction
 
-<img src="https://github.com/Deeksha-Data-Scientist/Seoul-Bike-Sharing-Demand-Prediction/bike-share.png" align="middle" height="400">
+<img src="https://github.com/Deeksha-Data-Scientist/Seoul-Bike-Sharing-Demand-Prediction/blob/main/bike-share.png" align="middle" height="400">
 
 ## Problem Statement
 
